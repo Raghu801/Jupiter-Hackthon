@@ -18,7 +18,7 @@ function Page() {
       window.Jupiter.init({ 
         displayMode: "integrated",
         integratedTargetId: "integrated-terminal",
-        endpoint: "https://mainnet.helius-rpc.com/?api-key=YOUR_API_KEY_HERE",
+        endpoint: "https://mainnet.helius-rpc.com/?api-key=f14efcea-d893-4f39-b75e-1b7df68d63ea",
         strictTokenList: false,
         defaultExplorer: "SolanaFM",
         formProps: {
